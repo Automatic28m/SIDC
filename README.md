@@ -38,7 +38,7 @@ A map of the water, power and carbon impact of data centers in Thailand, with sa
 | `SIDC.pdf` | Competition brief |
 | `Environmental Overview/` | Research on environmental crises in Thailand and possible AI solutions |
 | `Toxic River/` | RiverSafe and ToxicTrace proposal documents |
-| `Toxic River/riversafe-web/` | RiverSafe web app mockup (has its own git repository and README) |
+| `Toxic River/riversafe-web/` | RiverSafe web app mockup (has its own README) |
 | `Toxic River/spike/` | Exploratory data on turbidity, arsenic and satellite readings for the Kok river |
 | `Data Center/` | Research on data center problems in Thailand and proposed solutions (in Thai) |
 
