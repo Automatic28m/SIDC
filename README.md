@@ -21,7 +21,7 @@ Proposals follow the format **Problem → Idea → Innovation → Impact**. Judg
 
 ## Our approach
 
-We are building an **AI web application** that needs no IoT devices or other custom hardware. Two directions are under consideration, and the final choice is still open.
+We are building an **AI web application** that needs no IoT devices or other custom hardware. Three directions are under consideration, and the final choice is still open.
 
 ### RiverSafe: toxic river pollution
 
@@ -30,6 +30,10 @@ A risk map and Thai-language chatbot for arsenic contamination in the Kok, Sai, 
 ### DC-Lens: data center impact
 
 A map of the water, power and carbon impact of data centers in Thailand, with satellite change detection, reservoir level forecasting and a Thai-language chatbot.
+
+### Industrial waste tracking
+
+Sentinel-2 change detection finds suspicious waste pits in Prachinburi, local residents confirm them through LINE, and a flow-path map shows which villages, fish farms and water intakes lie downstream. A first satellite test over 1,225 km² narrowed the area to 41 candidate sites. A fire and sensor extension is planned but is not part of the current scope.
 
 ## Repository layout
 
@@ -41,6 +45,7 @@ A map of the water, power and carbon impact of data centers in Thailand, with sa
 | `Toxic River/riversafe-web/` | RiverSafe web app mockup (has its own README) |
 | `Toxic River/spike/` | Exploratory data on turbidity, arsenic and satellite readings for the Kok river |
 | `Data Center/` | Research on data center problems in Thailand and proposed solutions (in Thai) |
+| `Industrial Waste/` | Tracking illegally dumped industrial waste in Prachinburi with satellite imagery, and who lives downstream (in Thai, has its own README) |
 
 ## RiverSafe mockup
 
