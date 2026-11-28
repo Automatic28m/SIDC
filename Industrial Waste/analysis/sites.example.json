@@ -1,0 +1,17 @@
+{
+  "_note": "Copy to sites.local.json and fill in real values. sites.local.json is git-ignored because this repo is public.",
+  "scenes": {
+    "before": "S2A_47PQR_20250115_0_L2A",
+    "after": "S2A_47PQR_20260112_0_L2A"
+  },
+  "registry_sites": [
+    {"key": "site_a", "name": "example municipal dump", "lat": 0.0, "lon": 0.0, "rai": 16}
+  ],
+  "landfill": {"name": "flood case landfill", "lat": 0.0, "lon": 0.0},
+  "sample_points": [
+    {"name": "A", "lat": 0.0, "lon": 0.0},
+    {"name": "B", "lat": 0.0, "lon": 0.0},
+    {"name": "C", "lat": 0.0, "lon": 0.0}
+  ],
+  "flood_region": [101.38, 13.86, 101.50, 13.96]
+}
